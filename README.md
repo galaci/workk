@@ -1,0 +1,2 @@
+# workk
+safelink.js
